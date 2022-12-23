@@ -45,9 +45,9 @@ Kodu çalıştırın
 [![Creative Commons Zero v1.0 Universal License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/securist0x02/snake/blob/main/LICENSE)
 ## Sosyal Medya
 
-  [![Instagram](https://www.instagram.com/securist0x01)
+  [Instagram](https://www.instagram.com/securist0x01)
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/securist0x02/snake/main/imgt/snake.PNG)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/securist0x02/snake/main/snake.PNG)
 
   
