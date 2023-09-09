@@ -10,7 +10,7 @@ Basit Bir Yılan Oyunu
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/fuekisecurity/snake/
+  git clone https://github.com/furkzsec/snake/
 ```
 
 Proje dizinine gidin
@@ -42,12 +42,12 @@ Kodu çalıştırın
   
 ## Rozetler
 
-[![Creative Commons Zero v1.0 Universal License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/fuekisecurity/snake/blob/main/LICENSE)
+[![Creative Commons Zero v1.0 Universal License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/furkzsec/snake/blob/main/LICENSE)
 ## Sosyal Medya
 
-  [Instagram](https://www.instagram.com/fuekisecurity)
+  [Instagram](https://www.instagram.com/furkzsec)
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/fuekisecurity/snake/main/snake.PNG)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/furkzsec/snake/main/snake.PNG)
 
   
